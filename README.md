@@ -12,7 +12,7 @@
   <a href="https://github.com/0xBoringWozniak?tab=repositories">
     <img src="https://img.shields.io/badge/🌟%20Star%20My%20Repos-ffd700?style=flat&logo=github&logoColor=white" alt="Star My Repos" />
   </a>
-  <a href="https://github.com/sponsors/0xBoringWozniak">
+  <a href="https://debank.com/profile/0x29DfCf648c8034E25d492231142f4aE35f0f2c6d">
     <img src="https://img.shields.io/badge/Sponsor%20Me-FF4088?style=flat&logo=GitHubSponsors&logoColor=white" alt="Sponsor Me" />
   </a>
 
