@@ -9,7 +9,7 @@
   <a href="https://github.com/0xBoringWozniak">
     <img src="https://img.shields.io/badge/Follow%20Me-%237289da?style=flat&logo=github&logoColor=white" alt="Follow Me" />
   </a>
-  <a href="https://github.com/0xBoringWozniak">
+  <a href="https://github.com/0xBoringWozniak?tab=repositories">
     <img src="https://img.shields.io/badge/🌟%20Star%20My%20Repos-ffd700?style=flat&logo=github&logoColor=white" alt="Star My Repos" />
   </a>
   <a href="https://github.com/sponsors/0xBoringWozniak">
