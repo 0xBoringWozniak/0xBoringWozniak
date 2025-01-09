@@ -38,15 +38,15 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Logarithm-Labs/go-hyperliquid"><b>go-hyperliquid</b></a><br/>
-      <sub>Golang SDK for Hyperliquid PerpDEX<br/>Effortless integration for DeFi trading.</sub>
+      <sub>Golang SDK for Hyperliquid PerpDEX<br/>Effortless integration for trading.</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Logarithm-Labs/fractal-defi"><b>fractal-defi</b></a><br/>
-      <sub>Advanced DeFi research library<br/>For strategy development and modeling.</sub>
+      <sub>Advanced DeFi research library<br/>For strategis development and modeling.</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Lend-Guard/LendGuard"><b>LendGuard</b></a><br/>
-      <sub>Protecting on-chain infrastructure<br/>From liquidation risks.</sub>
+      <a href="https://github.com/orgs/Lend-Guard/repositories"><b>LendGuard</b></a><br/>
+      <sub>Protecting on-chain infrastructure<br/>from liquidation risks.</sub>
     </td>
   </tr>
 </table>
